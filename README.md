@@ -1,7 +1,9 @@
 # A web page article automatic link on specific words with @Hackway
 ## To automatically link specific words in a web page article with the given @Hackway.
 
-<p>This code is an HTML page that includes JavaScript and CSS. It features a paragraph of text with a disclaimer and a centered image. The CSS code styles the links in the text, giving them a blue color, removing the underline, and adding a bottom border that transitions to a different color on hover.</p><p> The JavaScript code automatically converts specific words in the paragraphs into clickable links, using an object to define the words and their corresponding URLs. The code loops through each paragraph, splits the words, checks if a word matches one in the object, and replaces it with a link if there's a match.<p>
+<p>This code is an HTML page that includes JavaScript and CSS. It features a paragraph of text with a disclaimer and a centered image. The CSS code styles the links in the text, giving them a blue color, removing the underline, and adding a bottom border that transitions to a different color on hover.</p>
+
+<p> The JavaScript code automatically converts specific words in the paragraphs into clickable links, using an object to define the words and their corresponding URLs. The code loops through each paragraph, splits the words, checks if a word matches one in the object, and replaces it with a link if there's a match.<p>
 
 ## code, you can follow these steps:
 <ol>
