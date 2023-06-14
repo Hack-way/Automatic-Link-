@@ -20,6 +20,6 @@
 <p>By following these steps and incorporating the provided code, the specified words in your web page article will be automatically linked with appropriate URLs.</p>
 
 ### Live Domo || Automatically link specific words in a web page article.
-The link https://codepen.io/hackway/pen/QWVGjmw
+The link <a href="https://codepen.io/hackway/pen/QWVGjmw" target="_blank" rel="nofollow">https://codepen.io/hackway/pen/QWVGjmw</a>
 
 YouTube channel my Handle is @Hackway
