@@ -16,3 +16,8 @@
 <p>Make sure to replace the placeholder URLs and words in the JavaScript code with your desired links and words to be linked.</p>
 
 <p>By following these steps and incorporating the provided code, the specified words in your web page article will be automatically linked with appropriate URLs.</p>
+
+### Automatically link specific words in a web page article.
+The link https://codepen.io/hackway/pen/QWVGjmw
+
+YouTube channel my Handle is @Hackway
