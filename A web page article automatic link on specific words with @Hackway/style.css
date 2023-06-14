@@ -1,0 +1,11 @@
+a {
+    color: blue;
+    text-decoration: none;
+    border-bottom: 2px solid #0077c0;
+    transition: border-bottom-color 0.2s;
+  }
+
+  a:hover {
+    color: green;
+    border-bottom-color: #94c6e5;
+  }
